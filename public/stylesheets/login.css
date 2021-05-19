@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("https://images.unsplash.com/photo-1508028471618-6f8e1b73eb56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80");
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0.2rem 0.1rem rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 5rem rgba(0, 0, 0, 0.5);
+}
+
+label {
+    text-shadow: none;
+}
+
+title {
+    text-shadow: 0 0.1rem 0.05rem rgba(0, 0, 0, 0.5);
+}
+
+.card {
+    border: none;
+}
